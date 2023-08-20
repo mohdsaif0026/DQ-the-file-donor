@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/171925d184de01b3055dc.jpg" alt="DQ-The-File-Donor Logo">
+  <img src="https://kartik19.shadowmirror.workers.dev/0:/file_0.jpg" alt="DQ-The-File-Donor Logo">
 </p>
 <h1 align="center">
   𝑫𝑸-𝑻𝒉𝒆-𝑭𝒊𝒍𝒆-𝑫𝒐𝒏𝒐𝒓 𝑩𝒐𝒕
@@ -215,6 +215,6 @@ Licensed under [GNU AGPL 2.0.](https://github.com/EvamariaTG/evamaria/blob/maste
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 ## Inspiration
-This is an attempt to create a clone of a BOAT made out of [banana trees 🌳](https://telegram.dog/GetTGLink/4187)
+This is an attempt to create a clone of a BOAT made out of [JOIN CHANNEL](https://t.me/Cloud_station9)
 
-[![For Vaza](https://telegra.ph/file/e743b0c8a04252774bac2.jpg)](https://telegra.ph/file/98342dc186fd7484cba91.mp4 "Oru Kootam Vazhakalk samarpikkunnu")
+[![For Vaza](https://kartik19.shadowmirror.workers.dev/0:/file_0.jpg)](https://kartik19.shadowmirror.workers.dev/0:/file_0.jpg "Oru Kootam Vazhakalk samarpikkunnu")
