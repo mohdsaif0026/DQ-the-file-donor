@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://kartik19.shadowmirror.workers.dev/0:/file_0.jpg" alt="DQ-The-File-Donor Logo">
+  <img src="https://graph.org/file/8c4edd52ecfde72b36637.jpg" alt="DQ-The-File-Donor Logo">
 </p>
 <h1 align="center">
   𝑫𝑸-𝑻𝒉𝒆-𝑭𝒊𝒍𝒆-𝑫𝒐𝒏𝒐𝒓 𝑩𝒐𝒕
@@ -217,4 +217,4 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 ## Inspiration
 This is an attempt to create a clone of a BOAT made out of [JOIN CHANNEL](https://t.me/Cloud_station9)
 
-[![For Vaza](https://kartik19.shadowmirror.workers.dev/0:/file_0.jpg)](https://kartik19.shadowmirror.workers.dev/0:/file_0.jpg "Oru Kootam Vazhakalk samarpikkunnu")
+[![For Vaza](https://graph.org/file/8c4edd52ecfde72b36637.jpg)](https://graph.org/file/8c4edd52ecfde72b36637.jpg "Oru Kootam Vazhakalk samarpikkunnu")
